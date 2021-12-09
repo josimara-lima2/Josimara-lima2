@@ -38,5 +38,7 @@
 #### Contatos
 
 [linkedin]:https://www.linkedin.com/in/josimara-silva-58ba4b164/
+[email]:josybehlul@gmail.com
 
-[![Linkedin: Josimara](https://img.shields.io/badge/-Josimara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josimara-silva-58ba4b164/)](https://www.linkedin.com/in/josimara-silva-58ba4b164/)
+[![Linkedin: Josimara](https://img.shields.io/badge/-Josimara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[linkedin])]([linkedin])
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=josimara:josybehlul@gmail.com)](josimara:josybehlul@gmail.com)
