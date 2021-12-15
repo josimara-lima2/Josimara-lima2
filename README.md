@@ -39,5 +39,5 @@
 
 [linkedin]:https://www.linkedin.com/in/josimara-silva-58ba4b164/
 
-[![Linkedin: Josimara](https://img.shields.io/badge/-Josimara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[linkedin])]([linkedin]) 
+[![Linkedin: Josimara](https://img.shields.io/badge/-Josimara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josimara-silva-58ba4b164/)](https://www.linkedin.com/in/josimara-silva-58ba4b164/) 
 [![GitHub Josimara]( https://img.shields.io/github/followers/josimara-lima2?label=follow&style=social)](https://github.com/josimara-lima2)
