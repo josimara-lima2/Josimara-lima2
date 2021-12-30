@@ -28,7 +28,7 @@
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josimra-lima2&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josimara-lima2&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/">
