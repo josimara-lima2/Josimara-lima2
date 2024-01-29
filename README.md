@@ -37,12 +37,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josimara-lima2&show_icons=true&theme=dracula&line_height=27" alt=Josimara github stats"/>
 </a>
 
-  <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-
 
 
 #### Contatos
